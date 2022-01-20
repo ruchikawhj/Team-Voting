@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCwXq1FV8N151orYeGIKRSlA7P6Lhl347U",
+   apiKey: "AIzaSyCwXq1FV8N151orYeGIKRSlA7P6Lhl347U",
   authDomain: "team-voting-5fbb8.firebaseapp.com",
   databaseURL: "https://team-voting-5fbb8-default-rtdb.firebaseio.com",
   projectId: "team-voting-5fbb8",
